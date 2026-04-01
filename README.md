@@ -4,7 +4,7 @@
 
 Sou um desenvolvedor apaixonado por resolver problemas complexos e construir sistemas escaláveis. Atualmente, foco meu desenvolvimento no ecossistema **Java e Spring Boot**, além de atuar com orquestração de processos.
 
-Minha trajetória inclui uma sólida experiência em gestão, o que me proporcionou soft skills essenciais como liderança, comunicação assertiva e resolução de conflitos — competências que utilizo para entregar resultados técnicos com visão de negócio.
+Minha trajetória inclui uma sólida experiência em gestão, o que me proporcionou soft skills essenciais como liderança, comunicação assertiva e resolução de conflitos, competências que utilizo para entregar resultados técnicos com visão de negócio.
 
 ---
 
